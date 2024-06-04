@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 
-#top-banner{
+#top-banner{ 
+    
     text-align: center;
     border-radius: 10px;
     font-weight: bold;
